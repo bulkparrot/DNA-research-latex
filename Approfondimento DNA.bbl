@@ -1,0 +1,123 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{o2008isolating}
+\bibinfo{author}{O'Connor, C.}
+\newblock \bibinfo{title}{Isolating hereditary material: Frederick griffith}.
+\newblock \emph{\bibinfo{journal}{Oswald Avery}}  (\bibinfo{year}{2008}).
+
+\bibitem{griffith1928significance}
+\bibinfo{author}{Griffith, F.}
+\newblock \bibinfo{title}{The significance of pneumococcal types}.
+\newblock \emph{\bibinfo{journal}{Epidemiology \& Infection}}
+  \textbf{\bibinfo{volume}{27}}, \bibinfo{pages}{113--159}
+  (\bibinfo{year}{1928}).
+
+\bibitem{johnston2014bacterial}
+\bibinfo{author}{Johnston, C.}, \bibinfo{author}{Martin, B.},
+  \bibinfo{author}{Fichant, G.}, \bibinfo{author}{Polard, P.} \&
+  \bibinfo{author}{Claverys, J.-P.}
+\newblock \bibinfo{title}{Bacterial transformation: distribution, shared
+  mechanisms and divergent control}.
+\newblock \emph{\bibinfo{journal}{Nature Reviews Microbiology}}
+  \textbf{\bibinfo{volume}{12}}, \bibinfo{pages}{181--196}
+  (\bibinfo{year}{2014}).
+
+\bibitem{hanahan1983studies}
+\bibinfo{author}{Hanahan, D.}
+\newblock \bibinfo{title}{Studies on transformation of escherichia coli with
+  plasmids}.
+\newblock \emph{\bibinfo{journal}{Journal of molecular biology}}
+  \textbf{\bibinfo{volume}{166}}, \bibinfo{pages}{557--580}
+  (\bibinfo{year}{1983}).
+
+\bibitem{neumann1982gene}
+\bibinfo{author}{Neumann, E.}, \bibinfo{author}{Schaefer-Ridder, M.},
+  \bibinfo{author}{Wang, Y.} \& \bibinfo{author}{Hofschneider, P.}
+\newblock \bibinfo{title}{Gene transfer into mouse lyoma cells by
+  electroporation in high electric fields.}
+\newblock \emph{\bibinfo{journal}{The EMBO journal}}
+  \textbf{\bibinfo{volume}{1}}, \bibinfo{pages}{841--845}
+  (\bibinfo{year}{1982}).
+
+\bibitem{avery1944studies}
+\bibinfo{author}{Avery, O.~T.}, \bibinfo{author}{MacLeod, C.~M.} \&
+  \bibinfo{author}{McCarty, M.}
+\newblock \bibinfo{title}{Studies on the chemical nature of the substance
+  inducing transformation of pneumococcal types: induction of transformation by
+  a desoxyribonucleic acid fraction isolated from pneumococcus type iii}.
+\newblock \emph{\bibinfo{journal}{The Journal of experimental medicine}}
+  \textbf{\bibinfo{volume}{79}}, \bibinfo{pages}{137--158}
+  (\bibinfo{year}{1944}).
+
+\bibitem{hershey1952independent}
+\bibinfo{author}{Hershey, A.~D.} \& \bibinfo{author}{Chase, M.}
+\newblock \bibinfo{title}{Independent functions of viral protein and nucleic
+  acid in growth of bacteriophage}.
+\newblock \emph{\bibinfo{journal}{Journal of general physiology}}
+  \textbf{\bibinfo{volume}{36}}, \bibinfo{pages}{39--56}
+  (\bibinfo{year}{1952}).
+
+\bibitem{watson1953molecular}
+\bibinfo{author}{Watson, J.~D.} \& \bibinfo{author}{Crick, F.~H.}
+\newblock \bibinfo{title}{Molecular structure of nucleic acids: a structure for
+  deoxyribose nucleic acid}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{171}},
+  \bibinfo{pages}{737--738} (\bibinfo{year}{1953}).
+
+\bibitem{TedEd2016franklin}
+\bibinfo{author}{Guerra, C.~L.}
+\newblock \emph{\bibinfo{title}{Rosalind Franklin: the unsung hero of DNA}}
+  (\bibinfo{year}{2016}).
+\newblock
+  \urlprefix\url{ed.ted.com/lessons/rosalind-franklin-dna-s-unsung-hero-claudio-l-guerra}.
+
+\bibitem{lodish2008molecular}
+\bibinfo{author}{Lodish, H.} \emph{et~al.}
+\newblock \emph{\bibinfo{title}{Molecular cell biology}}
+  (\bibinfo{publisher}{Macmillan}, \bibinfo{year}{2008}).
+
+\bibitem{wright1997normal}
+\bibinfo{author}{Wright, W.~E.}, \bibinfo{author}{Tesmer, V.~M.},
+  \bibinfo{author}{Huffman, K.~E.}, \bibinfo{author}{Levene, S.~D.} \&
+  \bibinfo{author}{Shay, J.~W.}
+\newblock \bibinfo{title}{Normal human chromosomes have long g-rich telomeric
+  overhangs at one end}.
+\newblock \emph{\bibinfo{journal}{Genes \& development}}
+  \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{2801--2809}
+  (\bibinfo{year}{1997}).
+
+\bibitem{burge2006quadruplex}
+\bibinfo{author}{Burge, S.}, \bibinfo{author}{Parkinson, G.~N.},
+  \bibinfo{author}{Hazel, P.}, \bibinfo{author}{Todd, A.~K.} \&
+  \bibinfo{author}{Neidle, S.}
+\newblock \bibinfo{title}{Quadruplex dna: sequence, topology and structure}.
+\newblock \emph{\bibinfo{journal}{Nucleic acids research}}
+  \textbf{\bibinfo{volume}{34}}, \bibinfo{pages}{5402--5415}
+  (\bibinfo{year}{2006}).
+
+\bibitem{meselson1958replication}
+\bibinfo{author}{Meselson, M.} \& \bibinfo{author}{Stahl, F.~W.}
+\newblock \bibinfo{title}{The replication of dna in escherichia coli}.
+\newblock \emph{\bibinfo{journal}{Proceedings of the national academy of
+  sciences}} \textbf{\bibinfo{volume}{44}}, \bibinfo{pages}{671--682}
+  (\bibinfo{year}{1958}).
+
+\bibitem{albert2005principles}
+\bibinfo{author}{Lehninger, A.~L.}
+\newblock \emph{\bibinfo{title}{Lehninger principles of biochemistry}}
+  (\bibinfo{publisher}{W. H. Freeman}, \bibinfo{year}{2005}).
+
+\bibitem{mladenov2011induction}
+\bibinfo{author}{Mladenov, E.} \& \bibinfo{author}{Iliakis, G.}
+\newblock \bibinfo{title}{Induction and repair of dna double strand breaks: the
+  increasing spectrum of non-homologous end joining pathways}.
+\newblock \emph{\bibinfo{journal}{Mutation Research/Fundamental and Molecular
+  Mechanisms of Mutagenesis}} \textbf{\bibinfo{volume}{711}},
+  \bibinfo{pages}{61--72} (\bibinfo{year}{2011}).
+
+\end{thebibliography}

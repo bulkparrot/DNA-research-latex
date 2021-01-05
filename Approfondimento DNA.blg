@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Approfondimento DNA.aux
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+The style file: naturemag.bst
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+Database file #1: bibliografiaDNA.bib
+I was expecting a `,' or a `}'---line 115 of file bibliografiaDNA.bib
+ : 
+ : @article{mladenov2011induction,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You've used 15 entries,
+            2348 wiz_defined-function locations,
+            1085 strings with 11707 characters,
+and the built_in function-call counts, 5724 in all, are:
+= -- 403
+> -- 148
+< -- 0
++ -- 74
+- -- 37
+* -- 705
+:= -- 635
+add.period$ -- 43
+call.type$ -- 15
+change.case$ -- 12
+chr.to.int$ -- 0
+cite$ -- 15
+duplicate$ -- 502
+empty$ -- 538
+format.name$ -- 47
+if$ -- 1136
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 121
+newline$ -- 81
+num.names$ -- 15
+pop$ -- 100
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 89
+stack$ -- 0
+substring$ -- 275
+swap$ -- 499
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 37
+width$ -- 17
+write$ -- 164
+(There was 1 error message)
